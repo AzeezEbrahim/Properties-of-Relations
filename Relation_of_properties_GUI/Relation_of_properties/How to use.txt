@@ -1,0 +1,7 @@
+1- if you have a java enviroment
+you can run Relation_of_properties.jar file
+
+
+2- if you don't have java enviroment you can run 
+Relation_of_properties.exe
+but you might face a virus detection alert because it is unauthorized program from windows, made via eclipse 
