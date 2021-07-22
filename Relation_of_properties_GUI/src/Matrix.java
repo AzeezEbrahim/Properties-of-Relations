@@ -657,7 +657,7 @@ public static boolean q_for_reflexive = true;
 	
            
             JOptionPane.showMessageDialog(null,
-                    "<html> This program is for EE305 Project and it aims help the students in the relation's properites topic <br> <br> Developed by:<br> <br> - Abdulaziz Hamid Ebrahim <br> Instructor: <br> <br> - Dr. Emad Khalaf </html>");
+                    "<html> This program aims to help the students in the relation's properites topic <br> <br> Developed by:<br> <br> - Abdulaziz Hamid Ebrahim <br> </html>");
                 
             
            
