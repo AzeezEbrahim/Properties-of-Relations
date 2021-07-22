@@ -12,8 +12,11 @@ more details in the following link
 https://www.math24.net/properties-relations
 
 
+
 A snapshot of the GUI:
+
 ![image](https://user-images.githubusercontent.com/87777192/126678174-3c3553fe-68b2-4552-8b66-3d2a36c28777.png)
 
 A snapshot of the TestBench:
+
 ![Screenshot of the TestBench](https://user-images.githubusercontent.com/87777192/126678371-e642d750-0747-4776-826a-449cc3a1e1bf.png)
