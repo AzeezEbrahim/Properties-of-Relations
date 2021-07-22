@@ -1,28 +1,34 @@
 
 
 # Introduction
-**Properties of Relations** - *Version 1.0.0*
 
+This program aims to help the students in the **relation's properites** topic, it allows to test multiple properties easily.
+
+# Properties of Relations 
 A (binary) relation R between sets X and Y is a subset of X×Y.  (X×Y is a Cartesian product.) 
 
-It have the following properties:
+#### The program cover the following properties:
 - Reflexivity
 - Irreflexivity
 - Symmetry
 - Antisymmetry
 - Asymmetry
 - Transitivity
+- Equivalency
 
-This is a program that implements a binary relation property test using java language, it made to help students to test multiple properties easily.
-# More details about Properties of Relations
-https://www.math24.net/properties-relations
+### More details about Properties of Relations  [HERE](https://www.math24.net/properties-relations)
+
 
 # How to use
-There are four 
-- Relation_of_properties_GUI --> It has the program in jar, and it also has the sorce code of the GUI
-- Relation_of_properties_TestBench --> it has the java code only with a testbench, can be tested in any editor 
-- FlowChart --> it has a simple flowchrt of the algorithm 
-- AlternativesMethods --> it is just an alternative algorithm on some of the code to test the efficiency (it might has some errors)
+There are four Folders:
+- Relation_of_properties_GUI Folder
+  - It has the program in jar, and it also has the source code of the GUI
+- Relation_of_properties_TestBench Folder
+  - It has the java code only with a testbench, can be tested using eclipse
+- FlowChart Folder
+  - It has a simple flowchrt of the algorithm 
+- AlternativesMethods Folder
+  - It is just an alternative algorithm on some of the code to test the efficiency (it might has some errors)
 
 # A snapshot of the GUI program
 
