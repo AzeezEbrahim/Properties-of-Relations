@@ -35,4 +35,4 @@ There are four
 
 # License & Copyrights
 © Abdulaziz Hamid Ebrahim, King Abdulaziz University
-License Under the [License](License)
+License Under the [MIT License](License)
