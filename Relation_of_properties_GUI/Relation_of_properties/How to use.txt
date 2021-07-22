@@ -1,0 +1,2 @@
+First You need to download a Java enviroment then
+you can run Relation_of_properties.jar file
