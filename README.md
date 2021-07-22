@@ -7,7 +7,6 @@ It may have the following properties:
 4- Antisymmetry
 5- Asymmetry
 6- Transitivity
-7- Equivalence
 
 more details in the following link
 https://www.math24.net/properties-relations
